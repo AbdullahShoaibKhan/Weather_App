@@ -7,7 +7,7 @@ header{
     padding: 2px 0px;
 }
 #container{
-    height: inherit;
+    height: 100%;
     background-image:url('background.jpg') ;
     background-repeat: no-repeat;
     background-size:cover;
